@@ -1,7 +1,7 @@
 {
-  "name": "peer",
+  "name": "peer-vpa-mod",
   "version": "0.5.3",
-  "description": "PeerJS server component",
+  "description": "PeerJS server component with VPA support",
   "main": "dist/src/index.js",
   "bin": {
     "peerjs": "./bin/peerjs"
@@ -16,13 +16,13 @@
     "dist/",
     "index.d.ts"
   ],
-  "homepage": "https://github.com/peers/peerjs-server#readme",
+  "homepage": "https://github.com/hemanth-manoharan/peerjs-server#readme",
   "bugs": {
-    "url": "https://github.com/peers/peerjs-server/issues"
+    "url": "https://github.com/hemanth-manoharan/peerjs-server/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peers/peerjs-server.git"
+    "url": "git+https://github.com/hemanth-manoharan/peerjs-server.git"
   },
   "author": "Michelle Bu, Eric Zhang, Alex Sosnovskiy",
   "license": "MIT",
